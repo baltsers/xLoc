@@ -1,19 +1,24 @@
 # xLoc
 
-Project artifact for:
-
 **Learning to Detect and Localize Multilingual Bugs**
 
-- Original artifact URL: <https://figshare.com/s/f0a7d357b148fc262a40>
-- Imported via `pubs2github` from the publications page
-- Downloader: `figshare` — Downloaded 1 file(s) via API (article 32293215)
+| | |
+|---|---|
+| Original artifact | <https://figshare.com/s/f0a7d357b148fc262a40> |
+| Imported from | the publications page |
+| Tool | `pubs2github` |
 
 
-## Other papers using the same artifact
+## Other papers sharing this artifact
 
 - Generating Realistic Vulnerabilities via Neural Code Editing: An Empirical Study
 
-This repository was created automatically. The contents under this
-directory mirror what was downloaded from the original artifact link
-above; refer to that source for the authoritative version, licensing,
-and any updates.
+---
+
+## Contents
+
+The artifact contains 1 file(s).
+
+```
+└── exsy_t1_mix_inphase_cs_comb.vt
+```
