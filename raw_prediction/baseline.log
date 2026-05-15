@@ -1,0 +1,6276 @@
+
+Get CT Vocab
+CT Vocab length == 13992
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static int ( PyObject * * repr , 
+gth: static int ( PyObject * * repr , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( const char * s , 
+gth: PyObject * ( const char * s , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: return ( f , filename , lineno ) ; 
+gth: return ( f , filename , lineno ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 
+gth: 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: UNLESS ( ( len = self -> stack -> length ) > 0 )  
+pred: Py_DECREF ( self -> stack -> data [ len ] ) ; 
+pred: Py_DECREF ( ( len = self -> stack -> length ) > 0 )  
+pred: static int ( Unpicklerobject * self )  
+pred: if ( ( self -> stack -> length ) > 0 )  
+pred: / * Note  that we  two , 
+pred: UNLESS ( ( len = self -> stack -> length ) > 0 )  return ( ) ; 
+pred: / * Note  that we  we data [ len ] ) , 
+pred: / * Note  that we  we are  two , 
+pred: Py_DECREF ( ( len = self -> stack -> length ) > 0 )  return ( ) ; 
+gth: / * Note  that we  split the ( pickle . py )  stack into  two , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: } 
+pred: static PyObject * ( * self , char * fullname , 
+gth: static PyObject * ( * self , char * fullname , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: { , ( PyCFunction ) , METH_VARARGS , PyDoc_STR ( ) } , 
+gth: { , ( PyCFunction ) , METH_VARARGS , 
+=================
+pred: static PyMethodDef [ ] = { 
+gth: static PyMethodDef [ ] = { 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( PyObject * Type , int num )  
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: lookdict ( * mp , PyObject * key , register long hash )  
+gth: lookdict ( * mp , PyObject * key , register long hash )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 
+gth: 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_TYPE ( & ) = & PyType_Type ; 
+gth: Py_TYPE ( & ) = & PyType_Type ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( const char * s , 
+gth: PyObject * ( const char * s , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int ( Py_UNICODE * s , 
+gth: int ( Py_UNICODE * s , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: p += ; 
+gth: p += ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( const Py_UNICODE * s , 
+gth: PyObject * ( const Py_UNICODE * s , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: = PyErr_NewException ( , NULL , NULL ) ; 
+pred: if ( PyType_Ready ( & ) < 0 )  
+pred: 0 
+pred: = PyErr_NewException ( , NULL , NULL ) ; 
+pred: if ( PyType_Ready ( & ) < 0 )  
+pred: ( PyType_Ready ( & ) < 0 )  
+pred: interp = ( , , ) ; 
+pred: interp = ( , NULL , NULL ) ; 
+pred: m = ( , , ) ; 
+pred: static * m ; 
+gth: * object ; doing it  here is  required for  to Windows 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: ( DBObject * self , PyObject * args )  
+pred: ( _strings_richcompare * self , PyObject * args )  
+pred: if ( -1 == ( self , txn , & key , & data ) )  
+pred: PyObject * args )  
+pred: ( option_list * self , PyObject * args )  
+pred: if ( -1 == ( self , txn , 
+pred: key . flags = ; 
+pred: if ( -1 == ( self , txn , & key , & data , ) )  
+pred: = 0 ; 
+gth: if ( ! PyArg_ParseTuple ( args , , & dataobj , & txnobj ) )  
+=================
+pred: static PyObject * 
+pred: PyObject * ( const char * encoding , 
+pred: static PyObject * ( const char * encoding , 
+pred: * errors , 
+pred: PyObject * ( const char * encoding , int index )  
+pred: 0 
+pred: PyObject * ( const char * encoding , int index ) 
+pred: = PyObject_GetAttrString ( codecs , index ) ; 
+pred: ( const char * encoding , int index )  
+pred: * errors , const char * ) {  
+gth: 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( PyObject_AsReadBuffer ( s , ( const void * * ) & buf , & size ) ) {  
+gth: if ( PyObject_AsReadBuffer ( s , ( const void * * ) & buf , & size ) ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: while ( * text == ' ' || * text == ' ' ) {  
+pred: while ( * text == ' ' || * text == ' ' )  
+pred: while ( * text == ' ' || * text == ' ' ) ) ; 
+pred: while ( * text == ' ' || * text == ' ' ) ) {  
+pred: while ( * text == ' ' ) ) ; 
+pred: while ( * text == ' ' || * text == ' ) {  
+pred: while ( offset > 0 ) {  
+pred: while ( * text == ' ' || * text == ' ) ) {  
+pred: while ( * text == ' ' ) {  
+gth: offset -- ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( outFileName )  
+gth: if ( outFileName )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( const char * s , 
+gth: PyObject * ( const char * s , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( * self , PyObject * args )  
+gth: ( * self , PyObject * args )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( char * archive )  
+pred: ( fp , header_offset , 0 ) ; 
+pred: ( PyObject * archive )  
+pred: FILE * fp ; 
+pred: 0 
+pred: ( static PyObject * ( char * archive )  
+pred: ( * archive )  
+pred: ( FILE * fp ; 
+pred: ( file * archive )  
+pred: ( for * fp ; 
+gth: long header_offset , name_size , header_size ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( e -> v . Name . id , NULL ) ) ; 
+gth: ( e -> v . Name . id , NULL ) ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( saved == NULL ) {  
+pred: lz = ( * ) ; 
+pred: if ( it == NULL )  
+pred: 0 
+pred: lz = ( * ) type -> tp_alloc ( type , 0 ) ; 
+pred: st_mode = ( * ) ; 
+pred: if ( ! == NULL ) {  
+pred: if ( << == NULL ) {  
+pred: lz = ( * )  
+pred: lz = ( * ) } ; 
+gth: if ( lz == NULL ) {  
+=================
+pred: int = 0 ; 
+gth: int = 0 ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int ; 
+gth: int ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: j = 0 ; 
+pred: if ( ! PyArg_ParseTuple ( args , "s#i:findmax" , & cp1 , & len1 , & len2 ) )  
+gth: if ( ! PyArg_ParseTuple ( args , "s#i:findmax" , & cp1 , & len1 , & len2 ) )  
+=================
+pred: key . dptr = ( arg , NULL ) ; 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( microseconds >= 0 ) {  
+gth: if ( microseconds >= 0 ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_ssize_t size , align , length ; 
+gth: Py_ssize_t size , align , length ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static char * keywords [ ] = { "ast" , "line_info" , NULL } ; 
+gth: static char * keywords [ ] = { "ast" , "line_info" , NULL } ; 
+=================
+pred: PyNumberMethods * nb = o -> ob_type -> tp_as_number ; 
+gth: PyNumberMethods * nb = o -> ob_type -> tp_as_number ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: p += 3 ; 
+gth: p += 3 ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: size_t r ; 
+gth: size_t r ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( inquiry ) , 
+gth: ( inquiry ) , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( PyObject * self , PyObject * args )  
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_ssize_t left , right , , ; 
+gth: Py_ssize_t left , right , , ; 
+=================
+pred: time_t mtime ; 
+pred: PySocketSockObject mtime ; 
+pred: ( co , , mtime ) ; 
+pred: time_t mtime >= 
+pred: char buf [ + 1 ] ; 
+pred: ( NULL , , mtime ) ; 
+pred: NPY_FAIL mtime ; 
+pred: buf [ + 1 ] ; 
+pred: 0 
+pred: time_t mtime ; / *  a no  
+gth: if ( )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: x1 = = NULL ; 
+gth: x1 = = NULL ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static void ( PyObject * * , 
+gth: static void ( PyObject * * , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( * self , char * path )  
+gth: ( * self , char * path )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * PyUnicode_FromString ( const char * u )  
+gth: PyObject * PyUnicode_FromString ( const char * u )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: = PyErr_NewException ( , NULL , NULL ) ; 
+pred: if ( PyType_Ready ( & ) < 0 )  
+pred: 0 
+pred: = PyErr_NewException ( , NULL , NULL ) ; 
+pred: if ( PyType_Ready ( & ) < 0 )  
+pred: ( PyType_Ready ( & ) < 0 )  
+pred: interp = ( , , ) ; 
+pred: interp = ( , NULL , NULL ) ; 
+pred: m = ( , , ) ; 
+pred: static * m ; 
+gth: * object ; doing it  here is  required for  to Windows 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( )  
+pred: 0 
+pred: PyObject * m , * , * , * ; 
+pred: static ( )  
+pred: ( )  
+pred: PyObject * m , * , * , * , * ; 
+pred: 0 
+pred: PyObject * m , * , * ; 
+pred: )  
+gth: _PyExc_Init ( void )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: memcpy ( op -> ob_sval , str , size + 1 ) ; 
+gth: memcpy ( op -> ob_sval , str , size + 1 ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static int ( PyUnicodeObject * * v , 
+gth: static int ( PyUnicodeObject * * v , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyModule_AddStringConstant ( m , "__version__" , "1.0.0" ) ; 
+gth: PyModule_AddStringConstant ( m , "__version__" , "1.0.0" ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: while ( ( = base -> tp_dealloc ) == ) {  
+gth: while ( ( = base -> tp_dealloc ) == ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: assert ( seconds == 0 ) ; 
+gth: assert ( seconds == 0 ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( const char * s , 
+gth: PyObject * ( const char * s , 
+=================
+pred: 0 
+pred: ( & cif , , ) ; 
+pred: ( & cif , ) ; 
+pred: ( ( ( ) , & , & record ) ) {  
+pred: ( & cif , ( ( ) , & , & record ) ) {  
+pred: ( & cif , ( ( ) , 
+pred: ( & cif , ( void * ) ) ; 
+pred: ( & cif , ( ( ( ) , 
+pred: ( & cif , , 
+gth: ( & cif , ( void * ) pProc , , ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( PyObject * unicode )  
+gth: PyObject * ( PyObject * unicode )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: key = value = NULL ; 
+gth: key = value = NULL ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( const char * s , 
+pred: 0 
+pred: ( PyObject * * ) & v , & , & p ) ) 
+gth: ( PyObject * * ) & v , & , & p ) ) 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( const char * name )  
+gth: ( const char * name )  
+=================
+pred: err = 0 ; 
+gth: err = 0 ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: assert ( stgdict ) ; 
+gth: assert ( stgdict ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( * self , PyObject * args )  
+gth: PyObject * ( * self , PyObject * args )  
+=================
+pred: if ( ! PyArg_ParseTuple ( args , "OO" , & cursor , & data ) ) {  
+pred: if ( ! ( ( PyObject * ) & ) ) {  
+pred: if ( ! PyArg_ParseTuple ( args , "OO" , 
+pred: 0 
+pred: int ( Row * self , PyObject * args , PyObject * kwargs )  
+pred: if ( ! ( ( PyObject * ) ) {  
+pred: if ( ! ( ( PyObject * )  
+gth: if ( ! ( ( PyObject * ) cursor , ( PyObject * ) & ) ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( PyObject * op , 
+gth: ( PyObject * op , Py_ssize_t * , PyObject * * , PyObject * * , long * )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( void )  
+gth: ( void )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * dict , * name = Py_None , * doc = Py_None ; 
+pred: ( * m , PyObject * args , PyObject * kwds )  
+pred: return -1 ; 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( * mp , PyObject * key , register long hash )  
+gth: ( * mp , PyObject * key , register long hash )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * PyUnicode_FromObject ( register PyObject * obj )  
+gth: PyObject * PyUnicode_FromObject ( register PyObject * obj )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyNumberMethods * nb = item -> ob_type -> tp_as_number ; 
+gth: PyNumberMethods * nb = item -> ob_type -> tp_as_number ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( PyStringObject * self , PyObject * args )  
+gth: ( PyStringObject * self , PyObject * args )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_UNICODE * * p = ( * , Py_UNICODE * *  ) ; 
+gth: Py_UNICODE * * p = ( * , Py_UNICODE * *  ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: { , ( PyCFunction ) , 
+gth: { , ( PyCFunction ) , 
+=================
+pred: PyObject * ( const char * s , 
+gth: PyObject * ( const char * s , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: char buffer [ 256 ] ; 
+gth: char buffer [ 256 ] ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 
+gth: 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( void * ptr , unsigned size )  
+gth: ( void * ptr , unsigned size )  
+=================
+pred: return PyImport_Import ( ) ; 
+gth: return PyImport_Import ( ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static PyGetSetDef Struct_getsets [ ] = { 
+gth: static PyGetSetDef Struct_getsets [ ] = { 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( register const wchar_t * w , 
+gth: PyObject * ( register const wchar_t * w , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( PyObject * left , 
+gth: PyObject * ( PyObject * left , 
+=================
+pred: reduce = PyObject_GetAttrString ( self , ) ; 
+gth: reduce = PyObject_GetAttrString ( self , ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 , 
+gth: 0 , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * PyUnicode_AsEncodedString ( PyObject * unicode , 
+gth: PyObject * PyUnicode_AsEncodedString ( PyObject * unicode , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyErr_SetString ( PyExc_ValueError , ) ; 
+gth: PyErr_SetString ( PyExc_ValueError , ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: PyObject * r ; 
+pred: ( const char * text , int state )  
+pred: = 1 ; 
+pred: * s = PyString_AsString ( r ) ; 
+gth: char * s = PyString_AsString ( r ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_DECREF ( fileobj ) ; 
+gth: Py_DECREF ( fileobj ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static long 
+gth: static long 
+=================
+pred: char * str ; 
+pred: if ( PyDict_GetItemString ( globals , , PyEval_GetBuiltins ( ) ) != 0 ) {  
+pred: 0 
+pred: if ( PyDict_GetItemString ( globals , , PyEval_GetBuiltins ( ) ) != 0 )  
+pred: int = ( cmd , "eval" , 
+gth: str = ( cmd , "eval" , ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: return -1 ; 
+pred: if ( ! PyArg_Parse ( , "s" , & ) ) {  
+pred: ( & self -> ctx , cp , Py_SAFE_DOWNCAST ( len , Py_ssize_t , 
+pred: 0 
+pred: ( & self -> ctx , cp , 
+pred: if ( ! PyArg_Parse ( , "s" , 
+pred: cp = NULL ; 
+pred: PyObject * = NULL ; 
+pred: ( & self -> ctx , 
+pred: char * ; 
+gth: if ( cp && len )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ; 
+gth: ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( void * ptr , unsigned size )  
+gth: ( void * ptr , unsigned size )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: if ( lz )  
+gth: ( lz )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int result = 0 ; 
+gth: int result = 0 ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: if ( n == 1 )  
+gth: if ( n == 1 )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( -1 == PyObject_GenericSetAttr ( self , key , value ) )  
+gth: if ( -1 == PyObject_GenericSetAttr ( self , key , value ) )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * PyUnicode_EncodeMBCS ( const Py_UNICODE * p , 
+gth: PyObject * PyUnicode_EncodeMBCS ( const Py_UNICODE * p , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( const char * s , 
+gth: PyObject * ( const char * s , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: void 
+gth: void 
+=================
+pred: 0 
+pred: PyObject * ( FILE * fp , 
+pred: PyObject * ( FILE * fp , char * name , 
+pred: . tp_new ( & , NULL , NULL ) ; 
+pred: PyObject * 
+pred: if ( fill_file_fields ( f , fp , name , mode , close , NULL ) == NULL ) {  
+gth: if ( fill_file_fields ( f , fp , name , mode , close , NULL ) == NULL ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int ( PyObject * , 
+gth: int ( PyObject * , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( ! PyArg_ParseTuple ( args , , & y , & x ) )  
+pred: return PyInt_FromLong ( ( long ) rtn ) ; 
+pred: if ( ! PyArg_ParseTuple ( args , , & y , 
+pred: ( * self , PyObject * args )  
+pred: if ( ! PyArg_ParseTuple ( args , , & y , & x ) ) {  
+pred: int x , y ; 
+pred: PyObject * args )  
+pred: 0 
+pred: rtn ; 
+gth: rtn ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: struct { 
+gth: struct { 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int , i ; 
+gth: int , i ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: if ( ( int ) nbytes < 0 || ( size_t ) ( int ) nbytes != nbytes ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static void ( PyObject * * , 
+gth: static void ( PyObject * * , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * PyUnicode_FromString ( const char * u )  
+gth: PyObject * PyUnicode_FromString ( const char * u )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: * p = NULL ; 
+pred: p += 3 ; 
+pred: buf = ( char * ) PyMem_Malloc ( bufsize ) ; 
+pred: 0 
+gth: 0 
+=================
+pred: Struct_getsets , 
+gth: Struct_getsets , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 
+pred: ( & ) ; 
+pred: ( 
+pred: ( & ) ; 
+pred: ( & ) ; 
+pred: ( 
+pred: ( 
+pred: ( & ) ; 
+pred: ( 
+pred: 
+gth: / *  the state  of all  except  of the  current : in 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( PyObject * unicode , 
+gth: PyObject * ( PyObject * unicode , 
+=================
+pred: 0 
+pred: if ( ( x == -1 ) && PyErr_Occurred ( ) ) {  
+pred: * buf = ( ( v ) , buf , 1 ) < 0 ) {  
+pred: PyObject * value , * it ; 
+pred: } 
+pred: if ( ! buf ) {  
+pred: buf = ( ( v ) , buf , 1 ) < 0 ) {  
+pred: if ( ( v ) ) {  
+pred: if ( ( ( v ) ) {  
+pred: if ( ( x == -1 ) && start ( ) ) {  
+gth: if ( PyErr_Occurred ( ) ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( ( op != Py_EQ && op != Py_NE ) || 
+gth: if ( ( op != Py_EQ && op != Py_NE ) || 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: items = self -> ob_item ; 
+pred: items = self -> ob_item ) ; 
+pred: if ( ( * self -> ob_descr -> ) ( self , -1 , 
+pred: if ( ( * self -> ob_descr -> ) ( self , -1 , v ) < 0 )  
+gth: 0 
+=================
+pred: int = 0 ; 
+pred: 0 
+pred: if ( ! PyDict_Check ( globals ) ) {  
+pred: char * str = ( prog , , 
+gth: char * str = ( prog , , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( void * ptr , PyObject * value , unsigned length )  
+gth: ( void * ptr , PyObject * value , unsigned length )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_DECREF ( self -> args ) ; 
+pred: if ( PyTuple_GET_SIZE ( args ) <= 1 ) {  
+gth: if ( PyTuple_GET_SIZE ( args ) <= 1 ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( parent == NULL )  
+gth: if ( parent == NULL )  
+=================
+pred: 0 
+pred: = Py_BuildValue ( , ( int ) children [ j ] ) ; 
+pred: if ( t == NULL ) {  
+pred: if ( x == NULL ) {  
+pred: * children , )  
+pred: if ( == NULL ) {  
+pred: return ret ; 
+pred: ( * children , )  
+pred: PyObject * ret = NULL ; 
+gth: PyObject * ret = NULL ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: p += 3 ; 
+gth: p += 3 ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyDict_SetItemString ( d , key_n2 , PyInt_FromLong ( ( long ) key ) ) ; 
+gth: PyDict_SetItemString ( d , key_n2 , PyInt_FromLong ( ( long ) key ) ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( const char * s , 
+gth: PyObject * ( const char * s , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_ssize_t next = ; 
+gth: Py_ssize_t next = ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_XDECREF ( doc ) ; 
+gth: Py_XDECREF ( doc ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( const char * s , 
+gth: PyObject * ( const char * s , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_DECREF ( copyreg ) ; 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( PyUnicode_Check ( x ) )  
+gth: if ( PyUnicode_Check ( x ) )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: void * ptr ; 
+gth: void * ptr ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: int = 0 ; 
+pred: / * code  the bytecode  offset = 0 ; 
+pred: / * code = NULL ; 
+pred: / *  the bytecode  offset = 0 ; 
+pred: / * Find  the bytecode  offset = 0 ; 
+pred: / *  the f  offset = 0 ; 
+pred: / *  the f  the   offset z   offset z  
+pred: / *  the f  the   offset z   offset z   offset z  
+pred: / *  the f  the   offset z   offset z   single and % , or the 
+gth: ( ( char * ) f -> f_code -> , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int ( PyObject * * unicode , Py_ssize_t length )  
+gth: int ( PyObject * * unicode , Py_ssize_t length )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: err = ( , f ) ; 
+gth: err = ( , f ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( PyObject * unicode , 
+gth: PyObject * ( PyObject * unicode , 
+=================
+pred: if ( ctx == Store && 
+gth: if ( ctx == Store && 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( void * ptr , PyObject * value , unsigned size )  
+gth: ( void * ptr , PyObject * value , unsigned size )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static PyObject * = NULL ; 
+pred: static PyObject * 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyOS_snprintf ( buffer , sizeof ( buffer ) , 
+gth: PyOS_snprintf ( buffer , sizeof ( buffer ) , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: ( * )  
+gth: ( * )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: if ( entry -> key == NULL ) {  
+pred: Py_DECREF ( startkey ) ; 
+pred: Py_ssize_t ( PySetObject * so , PyObject * key , register long hash )  
+gth: set_lookkey ( PySetObject * so , PyObject * key , register long hash )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 
+pred: microseconds = ; 
+pred: microseconds = ; 
+pred: microseconds = ; 
+pred: microseconds = ; 
+pred: microseconds = ; 
+pred: microseconds = ; 
+pred: microseconds = 
+pred: microseconds 
+pred: microseconds = 
+gth: 0 
+=================
+pred: = ( tstate ) ; 
+pred: = ( PyOS_snprintf ) ; 
+pred: ( 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( ( * f ) )  
+pred: if ( * * f ) )  
+pred: if ( * * s < 128 ) {  
+pred: while ( ( * f ) )  
+gth: while ( ( * f ) )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( ok )  
+gth: if ( ok )  
+=================
+pred: ; 
+gth: ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * PyUnicode_EncodeMBCS ( const Py_UNICODE * p , 
+gth: PyObject * PyUnicode_EncodeMBCS ( const Py_UNICODE * p , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: return PyUnicode_FromFormat ( ) ; 
+gth: return PyUnicode_FromFormat ( ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_XDECREF ( ) ; 
+gth: Py_XDECREF ( ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: = PyObject_New ( , & ) ; 
+gth: = PyObject_New ( , & ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: * p = NULL ; 
+pred: p += 3 ; 
+pred: buf = ( char * ) PyMem_Malloc ( bufsize ) ; 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: u -> = 0 ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( void * ptr , PyObject * value , unsigned size )  
+gth: ( void * ptr , PyObject * value , unsigned size )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_DECREF ( ) ; 
+gth: Py_DECREF ( ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: size_t r ; 
+gth: size_t r ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( PyObject * unicode )  
+gth: PyObject * ( PyObject * unicode )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: xmlparse_GetInputContext ( xmlparseobject * self , PyObject * args )  
+gth: xmlparse_GetInputContext ( xmlparseobject * self , PyObject * args )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( == NULL )  
+pred: const unsigned char * p ; 
+pred: buf [ ] ; 
+pred: size_t r ; 
+pred: int ; 
+pred: ( * )  
+pred: int len ; 
+pred: char buf [ ] ; 
+pred: unsigned char * p ; 
+pred: * This  is the   as = NULL , * t ; 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: int = 0 ; 
+pred: ( const node * n )  
+gth: ( const node * n )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int rc ; 
+gth: int rc ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( PyString_Check ( obj ) || PyUnicode_Check ( obj ) ) {  
+gth: if ( PyString_Check ( obj ) || PyUnicode_Check ( obj ) ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_ssize_t left , right , , ; 
+gth: Py_ssize_t left , right , , ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_UNICODE str [ 1 ] ; 
+gth: Py_UNICODE str [ 1 ] ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_ssize_t len ; 
+gth: Py_ssize_t len ; 
+=================
+pred: int itemsize , ; 
+gth: int itemsize , ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: PyObject * = NULL , * text = NULL , * result = NULL , * = NULL ; 
+pred: const char * action ; 
+pred: PyObject * = PyObject_Str ( item ) ; 
+pred: PyObject * = NULL , * text = NULL , * result = NULL , * = NULL , * = NULL ; 
+pred: rc = ( registry , ) ; 
+pred: 0 
+pred: PyObject * = NULL , * text = NULL , * result = NULL , * = NULL , * = NULL , * = NULL , * = NULL , * = NULL , * = NULL ; 
+pred: PyObject * = NULL , * text = NULL , * result = NULL , * = NULL , * = NULL , * = NULL , * = NULL , * = NULL , * = NULL , * = NULL , * = NULL , * = NULL ; 
+pred: PyObject * = NULL , * text = NULL , * result = NULL , * = NULL , * = NULL , * = NULL , * = NULL , * = NULL , * = NULL , * = NULL ; 
+gth: PyObject * result ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 
+gth: 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: = PyImport_ImportModule ( ) ; 
+pred: ( int , int )  
+pred: ( , ) ; 
+pred: ) ; 
+pred: ( 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: err = 0 ; 
+gth: err = 0 ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( int ordinal )  
+gth: PyObject * ( int ordinal )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int = 0 ; 
+gth: int = 0 ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static PyObject * 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_DECREF ( ret ) ; 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_ssize_t ( PyObject * str , 
+gth: Py_ssize_t ( PyObject * str , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( set_insert_key ( so , key , ( long ) entry -> hash ) == -1 ) {  
+gth: if ( set_insert_key ( so , key , ( long ) entry -> hash ) == -1 ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: if ( ! ( * format ) ) {  
+gth: if ( ! ( * format ) ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( void * ptr , PyObject * value , unsigned size )  
+gth: ( void * ptr , PyObject * value , unsigned size )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: FILE * ( const char * moduleName , 
+gth: FILE * ( const char * moduleName , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( e -> v . Name . id , NULL ) ) ; 
+gth: ( e -> v . Name . id , NULL ) ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( == NULL )  
+gth: if ( == NULL )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: bytes = ( unicode , NULL ) ; 
+gth: bytes = ( unicode , NULL ) ; 
+=================
+pred: 0 
+pred: ( m ) != NULL )  
+pred: ( * m )  
+pred: static void ( * m )  
+pred: if ( ( m ) != NULL )  
+pred: void 
+pred: void ( * m )  
+pred: / *  the  a reference , we  can clear  
+pred: / *  the ( )  to the  ( )  
+pred: / *  the ( )  to the  ( )  to the  
+gth: ( m ) ; 
+=================
+pred: ( const char * , const char * , 
+gth: ( const char * , const char * , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: Py_DECREF ( list ) ; 
+pred: PyObject * item = Py_BuildValue ( , -> suffix , 
+pred: Py_DECREF ( ) ; 
+pred: if ( list == NULL )  
+pred: PyObject * item = Py_BuildValue ( , 
+pred: PyObject * = Py_BuildValue ( , -> suffix , 
+pred: Py_BuildValue ( , -> suffix , 
+pred: else 
+pred: PyObject * )  
+gth: ( PyObject * self , PyObject * )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( base == NULL ) {  
+pred: ( , PyErr_NewException ( , , NULL ) ) ; 
+pred: if ( -> flag == ) {  
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyString_GET_SIZE ( fhobject * self , PyObject * args )  
+pred: 24 ( fhobject * self , PyObject * args )  
+pred: if ( ! PyArg_Parse ( args , "d" , & size ) ) return NULL ; 
+gth: if ( ! PyArg_Parse ( args , "d" , & size ) )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: void * ptr ; 
+gth: void * ptr ; 
+=================
+pred: PyObject * ( const char * s , 
+gth: PyObject * ( const char * s , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: just  copy the  error message  into a  global buffer , and  then ( )  to run  
+gth: just  copy the  error message  into a  global buffer , and  then ( )  to run  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( ob == NULL ) {  
+pred: PyObject * ob = * ( PyObject * * ) ptr ; 
+pred: ( void * ptr , unsigned size )  
+pred: PyErr_SetString ( PyExc_ValueError , "PyObject is NULL?" ) ; 
+gth: "PyObject is NULL?" ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyOS_snprintf ( buffer , sizeof ( buffer ) , 
+gth: PyOS_snprintf ( buffer , sizeof ( buffer ) , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: void * ptr ; 
+gth: void * ptr ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static PyObject * 
+gth: static PyObject * 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( & ) ; 
+pred: PyObject * bases ; 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( const Py_UNICODE * p , 
+gth: PyObject * ( const Py_UNICODE * p , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static PyMethodDef [ ] = { 
+pred: { , ( PyCFunction ) , METH_VARARGS } , 
+pred: static PyMethodDef 
+pred: * UNLESS ; 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Node * ( PyObject * key , PyObject * data )  
+gth: Node * ( PyObject * key , PyObject * data )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * error ; 
+gth: PyObject * error ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: long ; 
+gth: long ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: PyObject * v ; 
+pred: ( * , Py_UNICODE * , 
+pred: ( * , 
+pred: ( * , Py_UNICODE * , int flags )  
+pred: PyObject * ( * * , 
+pred: static PyObject * ( const char * * , 
+pred: * , 
+pred: PyObject * * , 
+pred: PyObject * 
+gth: return ( p , 1 ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( ! ( key ) || ( hash = ( ( PyStringObject * ) key ) -> ) == -1 ) {  
+pred: 0 
+pred: hash = PyObject_Hash ( key ) ; 
+pred: return ( mp -> ma_lookup ) ( mp , key , hash ) -> me_value != NULL ; 
+gth: return ( mp -> ma_lookup ) ( mp , key , hash ) -> me_value != NULL ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( PyObject * unicode , 
+gth: PyObject * ( PyObject * unicode , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( )  
+gth: ( )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: { "name" , , METH_VARARGS , } , 
+pred: { , , METH_VARARGS , } , 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int = PyTuple_GET_SIZE ( item ) ; 
+pred: char * name = NULL ; 
+gth: char * name = NULL ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( int ordinal )  
+gth: PyObject * ( int ordinal )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: / * On ( 2 ) can return more  than results 
+gth: / * On ( 2 ) can return more  than results 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: ( & ) ; 
+pred: static void ( PyTypeObject * ) ; 
+gth: static void ( PyTypeObject * ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( PyObject * unicode , 
+gth: PyObject * ( PyObject * unicode , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( const char * s , 
+gth: PyObject * ( const char * s , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: static int ) ; 
+gth: ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( ( * -> ) ( obj , NULL , PyBUF_SIMPLE ) == -1 ) {  
+gth: if ( ( * -> ) ( obj , NULL , PyBUF_SIMPLE ) == -1 ) {  
+=================
+pred: PyObject * ( PyObject * unicode , 
+gth: PyObject * ( PyObject * unicode , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: char * str ; 
+pred: if ( PyDict_GetItemString ( globals , , PyEval_GetBuiltins ( ) ) != 0 ) {  
+pred: 0 
+pred: if ( PyDict_GetItemString ( globals , , PyEval_GetBuiltins ( ) ) != 0 )  
+pred: int = ( cmd , "eval" , 
+gth: str = ( cmd , "eval" , ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ) ; 
+pred: = t ; 
+pred: ( PyObject * func , PyObject * * * , int flags , int )  
+pred: int = 0 ; 
+pred: = PyTuple_GET_SIZE ( ) ; 
+pred: Py_DECREF ( d ) ; 
+pred: 0 
+pred: = ( * ) ; 
+pred: , 
+pred: ( PyObject * func , PyObject * * * , int flags , int na , int )  
+gth: :  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( PyList_Check ( argv ) ) {  
+gth: if ( PyList_Check ( argv ) ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( void * ptr , PyObject * value , unsigned size )  
+gth: ( void * ptr , PyObject * value , unsigned size )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: return m ; 
+gth: return m ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: x = 0 ; 
+pred: if ( x < 0 ) {  
+pred: x = ( ( x << ) & ) | ( x >> ( 
+pred: return v -> ob_digit [ 0 ] == 1 ? -2 : - ( ) ; 
+pred: * long 
+pred: x = x * sign ; 
+pred: * long ( PyLongObject * v )  
+pred: static long 
+pred: x = ( ( x << ) & ) | ( x >> ( ) ) ; 
+gth: return ( long ) x ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_ssize_t ( PyObject * str , 
+gth: Py_ssize_t ( PyObject * str , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * tup , * str ; 
+gth: PyObject * tup , * str ; 
+=================
+pred: return PyInt_FromLong ( ( x ) ) ; 
+gth: return PyInt_FromLong ( ( x ) ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: bytes = ( unicode , NULL ) ; 
+gth: bytes = ( unicode , NULL ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * PyUnicode_EncodeMBCS ( const Py_UNICODE * p , 
+gth: PyObject * PyUnicode_EncodeMBCS ( const Py_UNICODE * p , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: scope = PyInt_AS_LONG ( v ) ; 
+pred: if ( scope != LOCAL )  
+pred: ( PyObject * , PyObject * free )  
+gth: ( PyObject * , PyObject * free )  
+=================
+pred: = 0 ; 
+gth: = 0 ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_BEGIN_ALLOW_THREADS ; 
+gth: Py_BEGIN_ALLOW_THREADS ; 
+=================
+pred: return ( , digest , NULL , cp , Py_SAFE_DOWNCAST ( len , Py_ssize_t , 
+pred: return ( , digest , NULL , cp , Py_SAFE_DOWNCAST ( len , 
+pred: cp , Py_SAFE_DOWNCAST ( len , Py_ssize_t , 
+gth: cp , Py_SAFE_DOWNCAST ( len , Py_ssize_t , unsigned int ) ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_ssize_t ( PyObject * unicode )  
+gth: Py_ssize_t ( PyObject * unicode )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( p )  
+pred: p = * ( * ) ptr ; 
+pred: 0 
+pred: static PyObject * ( void * ptr , unsigned size )  
+gth: ( void * ptr , unsigned size )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: else 
+gth: else 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( == NULL || == NULL ) {  
+pred: 0 
+gth: if ( == 0 || n > no ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: / * Internal routine for a string , 
+pred: / * Internal routine for a string  of characters  to be  passed to  a 
+pred: / * Internal routine for a string  of characters  to be  passed to  a string , 
+pred: memset ( self -> buf + self -> pos , len * sizeof ( Py_UNICODE ) ) ; 
+pred: / * Internal routine for a string  of characters  to be  passed to  a string , 
+pred: / * Internal routine for a string , of  string data , 
+pred: / * Internal routine for a string  of characters  to be  string data , len * sizeof ( Py_UNICODE ) ) ; 
+pred: / * Internal routine for a string  of characters  to be  passed to  a point  when . 
+pred: / * Internal routine for a string  of characters  to be  passed to  a point  passed to  a point  passed to  a 
+pred: / * Internal routine for a string , / * sizeof ( Py_UNICODE ) ) ; 
+gth: 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: result = ( callable , callargs , ) ; 
+pred: PyObject * = NULL ; 
+pred: if ( PyArg_ParseTuple ( args , "O|OO:runcall" , & callable , & callargs , & ) ) {  
+gth: if ( PyArg_ParseTuple ( args , "O|OO:runcall" , 
+=================
+pred: Py_ssize_t ( PyObject * )  
+pred: if ( ! PyAnySet_Check ( ) ) {  
+gth: if ( ! PyAnySet_Check ( ) ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static long 
+gth: static long 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( ! _PyArg_NoKeywords ( "frozenset()" , kwds ) )  
+gth: if ( ! _PyArg_NoKeywords ( "frozenset()" , kwds ) )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * PyUnicode_FromString ( const char * u )  
+gth: PyObject * PyUnicode_FromString ( const char * u )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: if ( atypes [ i ] -> type == FFI_TYPE_STRUCT )  
+gth: if ( atypes [ i ] -> type == FFI_TYPE_STRUCT )  
+=================
+pred: last = s + len ; 
+gth: last = s + len ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static PyObject * 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: nd = PyTuple_Size ( ) ; 
+gth: nd = PyTuple_Size ( ) ; 
+=================
+pred: PyObject * unicode , * tuple ; 
+pred: 0 
+pred: if ( size < 0 ) {  
+pred: self = Py_BuildValue ( "Oii" , unicode , consumed , byteorder ) ; 
+gth: tuple = Py_BuildValue ( "Oii" , unicode , consumed , byteorder ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: ( ) ; 
+gth: ( ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( PyObject * left , 
+gth: PyObject * ( PyObject * left , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: nbytes += sizeof ( ) - sizeof ( PyObject * ) ; 
+gth: nbytes += sizeof ( ) - sizeof ( PyObject * ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyTypeObject = { 
+gth: PyTypeObject = { 
+=================
+pred: time_t mtime ; 
+pred: PySocketSockObject mtime ; 
+pred: ( co , , mtime ) ; 
+pred: time_t mtime >= 
+pred: char buf [ + 1 ] ; 
+pred: ( NULL , , mtime ) ; 
+pred: NPY_FAIL mtime ; 
+pred: buf [ + 1 ] ; 
+pred: 0 
+pred: time_t mtime ; / *  a no  
+gth: if ( )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int rc ; 
+gth: int rc ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int rc ; 
+gth: int rc ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyFPE_START_PROTECT ( , return NULL )  
+gth: PyFPE_START_PROTECT ( , return NULL )  
+=================
+pred: 0 
+pred: PyObject * u , * v ; 
+pred: if ( u == NULL )  
+pred: end , char * encoding )  
+gth: ( const char * *  , const  char * end , char * encoding ) 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: if ( sizehintobj == Py_None || sizehintobj == NULL )  
+pred: Py_ssize_t sizehint ; 
+pred: if ( sizehintobj == Py_None || sizehintobj == NULL ) sizehint = PyInt_AsSsize_t ( sizehintobj ) ; 
+pred: if ( sizehintobj == Py_None || sizehintobj == NULL ) sizehint = -1 ; 
+pred: Py_DECREF ( r ) ; 
+pred: PyObject * sizehintobj = NULL , * r , * sr ; 
+pred: if ( "[section]" == Py_None || sizehintobj == NULL )  
+pred: if ( requested == Py_None || sizehintobj == NULL )  
+pred: if ( "[section]" == Py_None || sizehintobj == NULL ) sizehint = PyInt_AsSsize_t ( sizehintobj ) ; 
+gth: if ( ! PyArg_ParseTuple ( args , "|O:readlines" , & sizehintobj ) )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( const Py_UNICODE * s , 
+gth: PyObject * ( const Py_UNICODE * s , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: step = 7 ; 
+gth: step = 7 ; 
+=================
+pred: FILE * ( const char * moduleName , 
+gth: FILE * ( const char * moduleName , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: struct { 
+gth: struct { 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: j = 0 ; 
+pred: & cp1 , & len1 , & cp2 , & len2 ) ) 
+gth: if ( ! PyArg_Parse ( args , "(s#s#)" , & cp1 , & len1 , & cp2 , & len2 ) )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int = NULL ; 
+pred: int = 0 ; 
+pred: int = ( mode ) ; 
+pred: int = NULL , * * * = NULL , * * * = NULL , * * * = NULL ; 
+pred: int = NULL , * * * = NULL , * * * = NULL , * * * = NULL , * * * = NULL ; 
+pred: 0 
+pred: int = NULL , * * * = NULL , * * * = NULL ; 
+pred: int = NULL , * * * = NULL , * * * = NULL , * * * = NULL , * * * = NULL , * * * = NULL ; 
+pred: int ( * sizeof ( npy_intp * ) ) ; 
+pred: int = NULL , * * * = NULL , * * * = NULL , * * * = NULL , * * * = NULL , * * * = NULL , * * * = NULL ; 
+gth: if ( mode != ) {  
+=================
+pred: static PyObject * 
+gth: static PyObject * 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * PyUnicode_AsEncodedString ( PyObject * unicode , 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ) ; 
+gth:  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyErr_Format ( PyExc_TypeError , 
+gth: PyErr_Format ( PyExc_TypeError , 
+=================
+pred: 0 
+pred: ( PyObject * self , PyObject * args )  
+pred: char * p ; 
+pred: return PyString_FromString ( p ) ; 
+pred: PyObject * = NULL ; 
+pred: if ( ! PyArg_ParseTuple ( args , , & ) )  
+gth: if ( ! PyArg_ParseTuple ( args , , & ) )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: buf = PyString_AsString ( result ) ; 
+pred: element = PyString_AsString ( result ) ; 
+pred: char * buf ; 
+pred: buf = PyString_AsString ( result ) ) ; 
+pred: assert ( buf [ sign ) ; 
+pred: result = val -> ob_type -> tp_as_number -> nb_oct ( val ) ; 
+gth: result = val -> ob_type -> tp_as_number -> nb_oct ( val ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_ssize_t len = ( * filename ) ; 
+gth: Py_ssize_t len = ( * filename ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: addrlen -= ( sizeof ( * a ) - sizeof ( a -> ) ) ; 
+gth: addrlen -= ( sizeof ( * a ) - sizeof ( a -> ) ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( ! PyErr_ExceptionMatches ( PyExc_Exception ) )  
+gth: if ( ! PyErr_ExceptionMatches ( PyExc_Exception ) )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( PyObject * )  
+gth: ( PyObject * )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: return 1 ; 
+pred: if ( ( e -> v . Name . id , * p ) == 0 ) {  
+pred: assert ( PyUnicode_Check ( e -> v . Name . id ) ) ; 
+pred: if ( ( e -> v . Name . id ) ) ; 
+pred: } 
+pred: int ( expr_ty  e , 
+pred: if ( ( e -> v . Name . id , 
+pred: / *  is not , so  we can optimize 
+pred: / *  is not , so  we ( )  will end  
+gth: ( expr_ty  e , const  node * n ) 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: / * On ( 2 ) can return more  than results 
+gth: / * On ( 2 ) can return more  than results 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * PyUnicode_FromObject ( register PyObject * obj )  
+gth: PyObject * PyUnicode_FromObject ( register PyObject * obj )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_TPFLAGS_DEFAULT | Py_TPFLAGS_BASETYPE , 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: assert ( size >= 0 ) ; 
+gth: assert ( size >= 0 ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: size_t r ; 
+gth: size_t r ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: err = 0 ; 
+pred: PyObject * buf = NULL ; 
+gth: PyObject * buf = NULL ; 
+=================
+pred: 0 
+pred: PyObject * ( void )  
+pred: if ( -> dict == NULL )  
+pred: static ( p = interp -> ) ; 
+pred: ( long id , PyObject * exc )  
+pred: * m = tstate -> interp ; 
+pred: if ( -> == NULL )  
+pred: / *  the  . 
+pred: if ( -> ( long id , PyObject * exc )  
+pred: if ( -> dict == NULL ) {  
+gth: to call  this . be called with  the  . 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: char * = ( fullname ) ; 
+gth: char * = ( fullname ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: str = ( cmd ) ; 
+gth: str = ( cmd ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: else if ( ! strcmp ( STR ( CHILD ( ch , 0 ) ) , " None " ) ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int ( PyObject * left , 
+gth: int ( PyObject * left , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_ssize_t ( PyObject * unicode )  
+gth: Py_ssize_t ( PyObject * unicode )  
+=================
+pred: 0 
+pred: if ( atypes [ i ] -> type == FFI_TYPE_STRUCT )  
+gth: if ( atypes [ i ] -> type == FFI_TYPE_STRUCT )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( const char * name )  
+gth: ( const char * name )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: n ++ ; 
+pred: if ( why == ) {  
+gth: if ( why == ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: while ( i < len && ( self -> str [ i ] ) ) i ++ ; 
+gth: while ( i < len && ( self -> str [ i ] ) )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static PyObject * 
+pred: ) ; 
+gth: ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static PyObject * 
+gth: static PyObject * 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( * self , PyObject * args )  
+pred: rc = ( statement , self -> ) ; 
+gth: rc = ( statement , self -> ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( PyObject * string , int )  
+gth: PyObject * ( PyObject * string , int )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: -> = 0 ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( self -> buf )  
+gth: if ( self -> buf )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( "__index__" , nb_index , , , 
+pred: ( "__index__" , nb_index , , 
+pred: ( "__index__" , nb_index , 
+pred: ( "__index__" , "Duplicate group name" , , , 
+pred: 0 
+pred: ( "__index__" , nb_index , , , , 
+pred: , 
+gth: ( , , , , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int bytesread = 0 ; 
+gth: int bytesread = 0 ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: ( xmlparseobject * self , PyObject * args )  
+pred: char 1 ; 
+pred: enum XML_Error rc ; 
+pred: char ( xmlparseobject * self , PyObject * args )  
+pred: PyObject * args )  
+pred: return NULL ; 
+pred: if ( ! PyArg_ParseTuple ( args , , & flag ) )  
+gth: if ( ! PyArg_ParseTuple ( args , , & flag ) )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( ( flags & F_ALT ) && ( c == ' ' || c == ' ' ) ) {  
+pred: PyObject * ( PyObject * format , 
+gth: PyObject * ( PyObject * format , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static char inst = , obj = , 
+pred: PyErr_SetString ( PicklingError , ) ; 
+pred: int , name_size , res = -1 ; 
+pred: PyErr_SetString ( PicklingError , 
+pred: if ( ( = PyString_Size ( module ) ) < 0 ) ) {  
+pred: if ( ( len = PyObject_Size ( ) ) < 0 )  
+pred: static char inst = , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 
+pred: char * , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * 
+pred: static char inst = , obj = , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , 
+pred: static char inst = , *  = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 0 , * = 
+gth: UNLESS ( = 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_TPFLAGS_DEFAULT , 
+pred: 0 , 
+gth: 0 
+=================
+pred: PyInterpreterState * interp = PyThreadState_GET ( ) -> interp ; 
+pred: precision * interp = PyThreadState_GET ( ) -> interp ; 
+pred: static * interp = PyThreadState_GET ( ) -> interp ; 
+pred: static char * name , PyObject * error )  
+pred: static PyObject * error )  
+pred: static 
+pred: "w" * interp = PyThreadState_GET ( ) -> interp ; 
+pred: int ( const char * name , PyObject * error )  
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( const char * name )  
+gth: ( const char * name )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( p )  
+pred: p = * ( * ) ptr ; 
+pred: 0 
+pred: static PyObject * ( void * ptr , unsigned size )  
+gth: ( void * ptr , unsigned size )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: x1 = = NULL ; 
+gth: x1 = = NULL ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static long 
+gth: static long 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: it = PyObject_New ( , & ) ; 
+gth: it = PyObject_New ( , & ) ; 
+=================
+pred: if ( microseconds >= 0 ) {  
+gth: if ( microseconds >= 0 ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: } 
+pred: 0 
+pred: = len ; 
+pred: PyObject * zip_stat = NULL ; 
+gth: PyObject * zip_stat = NULL ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_XDECREF ( ) ; 
+gth: Py_XDECREF ( ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: ( mp , key , hash , value ) ; 
+pred: if ( ! PyDict_Check ( op ) ) {  
+pred: ( mp , key , hash , Return ) ; 
+pred: int PyDict_SetItem ( register PyObject * op , PyObject * key , PyObject * value ) 
+pred: PyObject * value ) 
+pred: register long hash ; 
+pred: static ( op ) ) {  
+pred: * ) ; 
+pred: int PyDict_SetItem ( register PyObject * op , PyObject * key , PyObject * value )  
+gth: register int n_used ; 
+=================
+pred: Py_SAFE_DOWNCAST ( view . len , Py_ssize_t , 
+pred: 0 
+pred: = ( , digest , NULL , ( unsigned char * ) view . buf , 
+gth: = ( , digest , NULL , ( unsigned char * ) view . buf , 
+=================
+pred: { , ( PyCFunction ) , METH_VARARGS , } , 
+gth: { , ( PyCFunction ) , METH_VARARGS , } , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( PyObject * unicode )  
+gth: PyObject * ( PyObject * unicode )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: void * ptr ; 
+gth: void * ptr ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: extern void Py_FatalError ( char * msg ) ; 
+gth: extern void Py_FatalError ( char * msg ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: code = ( ( ) , pathname , 
+pred: ( char * pathname , PyObject * source )  
+gth: ( char * pathname , PyObject * source )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int length , level = , err ; 
+pred: 0 
+pred: = ( ( char * ) output , 
+gth: = ( ( char * ) output , 
+=================
+pred: static PyObject * 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: static PyObject * 
+pred: * PyObject * = NULL ; 
+pred: char buf [ 4 ] ; 
+pred: globals = Py_BuildValue ( , , builtins ) ; 
+pred: if ( PyDict_Check ( builtins ) ) {  
+pred: buf [ 4 ] ; 
+pred: int = PyList_New ( 0 ) ; 
+pred: buf [ 4 ) ; 
+pred: * This  is the   single and  
+gth: / * ' imp ' provides Python access to the used for 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( * ( f + 1 ) == ' ' )  
+gth: if ( * ( f + 1 ) == ' ' )  
+=================
+pred: 0 
+pred: if ( ! PyArg_ParseTuple ( args , , & value ) ) return -1 ; 
+gth: if ( ! PyArg_ParseTuple ( args , , & value ) )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: void * handle ; 
+gth: void * handle ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( name == GET_IDENTIFIER ( top ) )  
+gth: if ( name == GET_IDENTIFIER ( top ) )  
+=================
+pred: PyObject * ( PyObject * str , 
+gth: PyObject * ( PyObject * str , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static void ( PyObject * * , 
+gth: static void ( PyObject * * , 
+=================
+pred: = PyErr_NewException ( , NULL , NULL ) ; 
+gth: = PyErr_NewException ( , NULL , NULL ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: if ( entry -> key == NULL ) {  
+pred: Py_DECREF ( startkey ) ; 
+pred: Py_ssize_t ( PySetObject * so , PyObject * key , register long hash )  
+gth: set_lookkey ( PySetObject * so , PyObject * key , register long hash )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static char * = ; 
+pred: static PyObject * ( const char * errors , 
+gth: static PyObject * ( const char * errors , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( * self , PyObject * args )  
+pred: PyObject * ( * self , PyObject * args )  
+pred: Py_BEGIN_ALLOW_THREADS  
+pred: if ( ! ( self ) ) {  
+pred: 0 
+pred: int rc ; 
+pred: if ( self -> db ) {  
+gth: ( self -> db ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_ssize_t len ; 
+pred: Py_ssize_t len ; / * = ( v -> . imag , , precision , 0 , NULL ) ; 
+pred: Py_ssize_t len ; / * = ( v -> . imag , , PyInterpreterState , 0 , NULL ) ; 
+pred: if ( ! buf ) {  
+pred: 0 
+pred: Py_ssize_t len ; / * ( * v )  
+pred: Py_ssize_t del ; 
+pred: Py_ssize_t len ; / * = NULL ; 
+pred: / * = ( v -> . imag , , precision , 0 , NULL ) ; 
+pred: Py_ssize_t len ; / * = ( v -> . imag , , 'lib' , 0 , NULL ) ; 
+gth: / *  the final  buffer . Add one for the in the format string , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: left = 0 ; 
+gth: left = 0 ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: x = PyInt_AsSsize_t ( v ) ; 
+gth: x = PyInt_AsSsize_t ( v ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( const char * s , 
+gth: PyObject * ( const char * s , 
+=================
+pred: pos = PyLong_Check ( ) ? 
+gth: pos = PyLong_Check ( ) ? 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static PyMethodDef [ ] = { 
+gth: static PyMethodDef [ ] = { 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( PyObject * left , 
+gth: PyObject * ( PyObject * left , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: i = PyNumber_Index ( o ) ; 
+gth: i = PyNumber_Index ( o ) ; 
+=================
+pred: PyObject * ( const Py_UNICODE * s , 
+gth: PyObject * ( const Py_UNICODE * s , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: p += ; 
+gth: p += ; 
+=================
+pred: result = Py_BuildValue ( , timeofday_diff , . ) ; 
+pred: if ( PyArg_ParseTuple ( args , ) ) {  
+pred: 0 
+pred: PyObject * args )  
+gth: hotshot_resolution ( PyObject * unused , PyObject * args )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyObject * ( PyObject * left , 
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: ( ternaryfunc ) , 
+gth: ( ternaryfunc ) , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_UNICODE * ( PyObject * unicode )  
+gth: Py_UNICODE * ( PyObject * unicode )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_XDECREF ( ( ( * ) self ) -> ) ; 
+gth: Py_XDECREF ( ( ( * ) self ) -> ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: r = ( self -> ctx , 
+gth: r = ( self -> ctx , 
+=================
+pred: { , T_INT , offsetof ( PyTypeObject , ) , } , 
+gth: { , T_INT , offsetof ( PyTypeObject , ) , } , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: if ( PyString_Check ( value ) ) {  
+gth: if ( PyString_Check ( value ) ) {  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static PyObject * ( Py_UNICODE c , PyObject * mapping )  
+gth: static PyObject * ( Py_UNICODE c , PyObject * mapping )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: oss_mixer_close ( oss_mixer_t * self , PyObject * args )  
+gth: oss_mixer_close ( oss_mixer_t * self , PyObject * args )  
+=================
+pred: void ( void )  
+gth: void ( void )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: PyObject * result = 0 ; 
+pred: char [ 200 ] ; 
+pred: static PyTypeObject * ( PyObject * module , 
+pred: * , size_t char * module_name , 
+pred: if ( == && ( size_t ) < 0 )  
+pred: char [ "Iterator: Calculating reduce loops\n" ] ; 
+pred: ) ; 
+pred: * module_name , 
+pred: if ( == ( Py_ssize_t ) - 1 && PyErr_Occurred ( ) ) goto ; 
+gth: if ( ( size_t ) < size ) {  
+=================
+pred: if ( PyModule_AddStringConstant ( m , "__version__" , ) < 0 )  
+gth: if ( PyModule_AddStringConstant ( m , "__version__" , ) < 0 )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: result = ( self -> , ) ; 
+gth: result = ( self -> , ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: { , grp_getgrnam , METH_VARARGS , } , 
+pred: static PyMethodDef [ ] = { 
+pred: 0 
+gth: 0 
+=================
+pred: const char * name ; 
+gth: const char * name ; 
+=================
+pred: Py_DECREF ( ) ; 
+pred: PyObject * = ( ) ; 
+pred: = PyObject_CallMethod ( , , "O" , args ) ; 
+gth: = PyObject_CallMethod ( , , "O" , args ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: Py_ssize_t newsize = ( total < ) ? : total ; 
+gth: Py_ssize_t newsize = ( total < ) ? : total ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: if ( PyObject_AsReadBuffer ( cmd , ( const void * * ) & str , & size ) < 0 ) {  
+pred: ( PyObject * cmd , char * funcname , char * what )  
+gth: ( PyObject * cmd , char * funcname , char * what )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: if ( ! PyArg_ParseTuple ( args , , & value ) ) return -1 ; 
+gth: if ( ! PyArg_ParseTuple ( args , , & value ) )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int ( Py_UNICODE * s , 
+gth: int ( Py_UNICODE * s , 
+=================
+pred: return Py_None ; 
+pred: unsigned long dest , src , ) ; 
+pred: unsigned long dest , src , count ; 
+gth: unsigned long dest , src , count ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: int rc ; 
+gth: int rc ; 
+=================
+pred: 0 
+pred: = PyBytes_FromStringAndSize ( ( char * ) NULL , ) ; 
+pred: PyObject * , * data = NULL , * decompress ; 
+pred: = ( ( char * ) NULL , ) ; 
+pred: char * buf ; 
+pred: / *  the , so  we ( ) , and PyBytes_FromStringAndSize ( ) , and  
+pred: / * a FILE * to  a   long  a , 
+pred: / * a FILE * to  a   long  , and  , 
+pred: / *  the , so  we ( )  will and  , so  
+pred: / * a FILE * to  a   long  a point   to the  a  
+gth: / * a FILE * to  a  file and  a , return the ( )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: size_t r ; 
+gth: size_t r ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: * ptr = PyMem_Malloc ( size ) ; 
+pred: PyObject * args )  
+pred: ( PyObject * ) & obj , & size ) ) 
+gth: ( PyObject * ) & obj , & size ) ) 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: lad_bufsize ( lad_t * self , PyObject * args )  
+gth: lad_bufsize ( lad_t * self , PyObject * args )  
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: PyNumberMethods * nb = item -> ob_type -> tp_as_number ; 
+gth: PyNumberMethods * nb = item -> ob_type -> tp_as_number ; 
+=================
+pred: ( e -> v . Name . id , NULL ) ) ; 
+gth: ( e -> v . Name . id , NULL ) ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+pred: ( )  
+pred: PyObject * , * ; 
+pred: = PyImport_ImportModule ( ) ; 
+pred: static ( )  
+pred: ( , 0 ) ; 
+pred: Py_FatalError ( ) ; 
+gth: Py_FatalError ( ) ; 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: static void ( PyObject * * , 
+gth: static void ( PyObject * * , 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
+pred: 0 
+gth: 0 
+=================
